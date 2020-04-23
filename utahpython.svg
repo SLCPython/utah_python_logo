@@ -9,9 +9,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="/Users/dylan/Documents/UtahPython/utahpython.png"
+   inkscape:export-ydpi="100.1913"
+   inkscape:export-xdpi="100.1913"
+   inkscape:export-filename="/Users/dylan/projects/utah_python_logo/utahpython_stridated.png"
    sodipodi:docname="utahpython.svg"
    inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
    id="svg8"
@@ -52,17 +52,49 @@
          offset="0"
          style="stop-color:#612928;stop-opacity:1" />
       <stop
-         style="stop-color:#d10924;stop-opacity:1"
-         offset="0.20367669"
-         id="stop883" />
+         style="stop-color:#9a1825;stop-opacity:1;"
+         offset="0.05343828"
+         id="stop1502" />
       <stop
-         id="stop885"
-         offset="0.50418425"
-         style="stop-color:#f07402;stop-opacity:1" />
+         style="stop-color:#a91425;stop-opacity:1;"
+         offset="0.18079101"
+         id="stop1486" />
+      <stop
+         id="stop1498"
+         offset="0.21058255"
+         style="stop-color:#bd0e24;stop-opacity:1;" />
+      <stop
+         style="stop-color:#c30c24;stop-opacity:1;"
+         offset="0.34839052"
+         id="stop1500" />
+      <stop
+         id="stop1482"
+         offset="0.40929845"
+         style="stop-color:#e44d0e;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e5560e;stop-opacity:1;"
+         offset="0.53976172"
+         id="stop1496" />
+      <stop
+         style="stop-color:#f18b14;stop-opacity:1;"
+         offset="0.59971493"
+         id="stop1494" />
+      <stop
+         style="stop-color:#f49516;stop-opacity:1;"
+         offset="0.7305938"
+         id="stop1480" />
+      <stop
+         id="stop1492"
+         offset="0.77739275"
+         style="stop-color:#fdcd36;stop-opacity:1;" />
       <stop
          style="stop-color:#ffd43b;stop-opacity:1"
-         offset="0.8765195"
+         offset="0.90987641"
          id="stop1462" />
+      <stop
+         id="stop1490"
+         offset="0.94344682"
+         style="stop-color:#ffe469;stop-opacity:1;" />
       <stop
          id="stop880"
          offset="1"
@@ -81,30 +113,30 @@
        xlink:href="#linearGradient867"
        id="linearGradient871"
        gradientUnits="userSpaceOnUse"
-       x1="17.719248"
-       y1="254.07945"
-       x2="-99.659279"
-       y2="134.44966"
+       x1="-76.810081"
+       y1="255.74768"
+       x2="-19.433725"
+       y2="83.291306"
        gradientTransform="matrix(0.69087349,0,0,0.77266781,148.39453,-8.1799318)" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="105.68844"
-       x2="83.251343"
-       y1="36.513718"
-       x1="16.2206"
+       y2="103.96981"
+       x2="79.814087"
+       y1="44.247536"
+       x1="25.243389"
        id="linearGradient1460"
        xlink:href="#linearGradient1458"
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
-     inkscape:pagecheckerboard="true"
+     inkscape:pagecheckerboard="false"
      showborder="true"
      inkscape:showpageshadow="false"
      inkscape:window-maximized="0"
      inkscape:window-y="23"
-     inkscape:window-x="777"
+     inkscape:window-x="0"
      inkscape:window-height="1005"
-     inkscape:window-width="903"
+     inkscape:window-width="1029"
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:object-nodes="false"
@@ -112,14 +144,14 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer2"
      inkscape:document-units="mm"
-     inkscape:cy="230.63633"
-     inkscape:cx="316.1997"
+     inkscape:cy="406.01745"
+     inkscape:cx="356.79718"
      inkscape:zoom="0.61580177"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
      bordercolor="#666666"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      id="base"
      inkscape:snap-global="false" />
   <metadata
@@ -143,7 +175,7 @@
        sodipodi:nodetypes="sccccccscccccccsccccsssssss"
        inkscape:connector-curvature="0"
        d="M 57.58549,15 C 42.132835,15 42,29.529419 42,29.529419 V 42.373354 H 78.504909 V 47.00948 H 42 v 37.999141 l -0.429657,71.206819 c -0.122704,20.33565 10.649061,18.67861 10.649061,18.67861 h 11.888481 v -49.1252 -22.58144 c 0,0 -0.369811,-18.708798 16.851668,-18.328282 h 11.41709 17.294787 c 0,0 11.81935,0.16813 11.81935,-12.462263 V 50.28697 l -0.85931,-18.179611 c 0,0 -1.38779,-16.97379 -16.66563,-17.107359 H 80.903273 Z m -2.520449,10.200675 c 1.440606,4e-6 2.881023,0.483116 3.841429,1.449409 1.920791,1.93257 1.920791,5.797238 0,7.729661 -1.920794,1.932427 -5.762208,1.932427 -7.683166,0 -1.920951,-1.932423 -1.920913,-5.797128 0,-7.729661 0.960457,-0.966274 2.401119,-1.449415 3.841737,-1.449409 z"
-       style="fill:url(#linearGradient1460);fill-opacity:1;stroke:none;stroke-width:0.193307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient1460);fill-opacity:1;stroke:none;stroke-width:0.19330700000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path1269" />
     <path
        sodipodi:nodetypes="ccscssccsccccscsccscssssc"
