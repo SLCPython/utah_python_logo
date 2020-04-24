@@ -93,7 +93,7 @@
          style="stop-color:#ff0000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(1.2002048e-4,0.00212954)"
+       gradientTransform="matrix(0.93230617,0,0,0.92392048,6.3049724,7.6091531)"
        gradientUnits="userSpaceOnUse"
        y2="93.013565"
        x2="88.514633"
@@ -103,7 +103,7 @@
        xlink:href="#linearGradient1458"
        inkscape:collect="always" />
     <linearGradient
-       gradientTransform="translate(1.2002048e-4,0.00212954)"
+       gradientTransform="matrix(0.93230617,0,0,0.92392048,6.3049724,7.6091531)"
        gradientUnits="userSpaceOnUse"
        y2="61.261608"
        x2="138.52127"
@@ -120,8 +120,8 @@
      inkscape:window-maximized="0"
      inkscape:window-y="23"
      inkscape:window-x="0"
-     inkscape:window-height="789"
-     inkscape:window-width="955"
+     inkscape:window-height="792"
+     inkscape:window-width="1402"
      inkscape:guide-bbox="true"
      showguides="false"
      inkscape:object-nodes="false"
@@ -129,8 +129,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer2"
      inkscape:document-units="mm"
-     inkscape:cy="357.71986"
-     inkscape:cx="384.24315"
+     inkscape:cy="367.81531"
+     inkscape:cx="400.33133"
      inkscape:zoom="0.75575672"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -152,39 +152,66 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
-     inkscape:label="Utah Python Logo 1"
-     id="layer1"
-     inkscape:groupmode="layer">
-    <path
-       id="rect4098-6"
-       style="opacity:1;fill:#606060;fill-opacity:1;stroke:none;stroke-width:2.11025;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       d="m 47,8.002247 h 69 c 0,0 13.22826,-0.3209357 13,12.999753 V 45 h 25 c 0,0 13.01548,0.02934 13,13.002 V 179 c -0.0528,13.16185 -13,13 -13,13 H 47 c 0,0 -13.228173,-0.0729 -12.999874,-12.998 V 21 C 33.745,8.0428774 47,8.002247 47,8.002247 Z"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
-    <path
-       sodipodi:nodetypes="cccccccccccc"
-       inkscape:connector-curvature="0"
-       d="m 47.00012,11.00213 h 69 c 0,0 9.81298,-0.406161 10,10 v 27 h 28 c 0,0 9.81298,-0.07631 10,10 V 179.002 c -0.25171,10.05392 -10,10.00013 -10,10.00013 h -107 c 0,0 -9.812981,-0.37215 -10,-10 v -158 c -0.04014,-9.658192 10,-10 10,-10 z"
-       style="opacity:1;fill:#212121;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4098" />
-  </g>
-  <g
      style="display:inline"
      inkscape:label="Utah Python Logo"
      id="layer2"
      inkscape:groupmode="layer">
+    <g
+       inkscape:label="Utah Background"
+       id="layer1"
+       inkscape:groupmode="layer">
+      <path
+         id="rect4098-6"
+         style="opacity:1;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1.95853;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="m 50.123253,15.000626 h 64.329127 c 0,0 12.33278,-0.296518 12.11998,12.010739 v 22.172243 h 23.30765 c 0,0 12.13442,0.02711 12.11998,12.012814 V 172.98896 c -0.0493,12.16049 -12.11998,12.01095 -12.11998,12.01095 H 50.123253 c 0,0 -12.332707,-0.0673 -12.119863,-12.00912 V 27.009517 C 37.765535,15.038166 50.123253,15.000626 50.123253,15.000626 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccc" />
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 50.123365,17.77228 h 64.329125 c 0,0 9.1487,-0.375261 9.32306,9.239204 v 24.945853 h 26.10458 c 0,0 9.1487,-0.07051 9.32305,9.239205 V 172.99079 c -0.23466,9.28903 -9.32305,9.23933 -9.32305,9.23933 H 50.123365 c 0,0 -9.148702,-0.34383 -9.323061,-9.23921 V 27.011484 c -0.03742,-8.923401 9.323061,-9.239204 9.323061,-9.239204 z"
+         style="opacity:1;fill:#212121;fill-opacity:1;stroke:none;stroke-width:1.85621;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4098" />
+    </g>
     <path
        sodipodi:nodetypes="zccccczzccczzccczzssssss"
        inkscape:connector-curvature="0"
-       d="m 69.00012,16.00213 c -15.386297,0 -15,15 -15,15 v 9 h 26 v 5 h -26 c 0,0 -12.046765,-0.06672 -12,20 0.04677,20.066724 -0.121658,46.90421 0,67 0.121658,20.09579 15,20 15,20 h 6 v -47 c 0,0 -1.254708,-20.096748 20,-20 21.25471,0.09675 17.94419,0 28,0 10.05581,0 10,-10 10,-10 V 50.2891 31.00213 c 0,0 -0.11634,-14.812267 -20,-15 -19.883657,-0.187733 -16.613703,0 -32,0 z m -3.880792,8.671508 c 1.440606,4e-6 2.881023,0.483116 3.841429,1.449409 1.920791,1.93257 1.920791,5.797238 0,7.729661 -1.920794,1.932427 -5.762208,1.932427 -7.683166,0 -1.920951,-1.932423 -1.920913,-5.797128 0,-7.729661 0.960457,-0.966274 2.401119,-1.449415 3.841737,-1.449409 z"
-       style="fill:url(#linearGradient1460);fill-opacity:1;stroke:none;stroke-width:0.193307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.634103,22.391883 c -14.34474,0 -13.984594,13.858808 -13.984594,13.858808 v 8.315284 h 24.239963 v 4.619603 H 56.649509 c 0,0 -11.231275,-0.06164 -11.187675,18.478411 0.04361,18.540058 -0.113422,43.335761 0,61.902681 0.113423,18.56691 13.984595,18.47841 13.984595,18.47841 h 5.593837 v -43.42427 c 0,0 -1.169773,-18.567798 18.646124,-18.478411 19.8159,0.08939 16.72948,0 26.10457,0 9.3751,0 9.32306,-9.239205 9.32306,-9.239205 V 54.070317 36.250691 c 0,0 -0.10846,-13.685358 -18.64611,-13.858808 -18.537664,-0.173451 -15.489066,0 -29.833807,0 z m -3.618087,8.011784 c 1.343087,3e-6 2.685997,0.44636 3.581389,1.339138 1.790765,1.785541 1.790765,5.356187 0,7.141592 -1.790769,1.785411 -5.372142,1.785411 -7.163064,0 -1.790916,-1.785405 -1.790879,-5.356086 0,-7.141592 0.895441,-0.89276 2.238579,-1.339144 3.581675,-1.339138 z"
+       style="fill:url(#linearGradient1460);fill-opacity:1;stroke:none;stroke-width:0.17941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path1269" />
     <path
        sodipodi:nodetypes="ccscsscczccccscsccscssssc"
        inkscape:connector-curvature="0"
-       d="m 126.00012,53.00213 v 22 c 0,0 -0.18608,15 -15,15 H 80.611035 c 0,0 -12.610915,-0.785985 -12.610915,15 v 65 c 0,15.72508 20,15 20,15 h 37 c 0,0 15.12087,1.01758 15,-15 -0.12087,-16.01758 0,-13 0,-13 h -26 v -5 h 30 c 0,0 15,0.35002 15,-20 v -59 c 0,0 0.18337,-20 -15,-20 z m 2.02829,110.34317 h 2.8e-4 c 0.007,0 0.015,-2e-5 0.0225,0 2.98895,1.4e-4 5.41187,2.4379 5.41182,5.44494 -4e-5,3.00697 -2.42294,5.44462 -5.41182,5.44476 -2.98908,1.5e-4 -5.41231,-2.43758 -5.41235,-5.44476 -8e-5,-2.99826 2.4092,-5.44494 5.38942,-5.44494 z"
-       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient1552);fill-opacity:1;stroke:none;stroke-width:2.19187;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.77556,56.576942 v 20.326252 c 0,0 -0.17348,13.858809 -13.9846,13.858809 H 81.459031 c 0,0 -11.757234,-0.726188 -11.757234,13.858807 v 60.05484 c 0,14.52873 18.646124,13.85881 18.646124,13.85881 h 34.495329 c 0,0 14.09728,0.94016 13.9846,-13.85881 -0.11269,-14.79897 0,-12.01097 0,-12.01097 h -24.23997 v -4.6196 h 27.9692 c 0,0 13.98457,0.32339 13.98457,-18.47841 V 75.055354 c 0,0 0.17097,-18.478412 -13.98457,-18.478412 z m 1.89098,101.948318 h 2.6e-4 c 0.007,0 0.0139,-2e-5 0.021,0 2.78661,1.3e-4 5.04553,2.25243 5.04549,5.0307 -4e-5,2.77819 -2.25894,5.0304 -5.04549,5.03053 -2.78673,1.4e-4 -5.04592,-2.25214 -5.04596,-5.03053 -7e-5,-2.77016 2.24611,-5.0307 5.02458,-5.0307 z"
+       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient1552);fill-opacity:1;stroke:none;stroke-width:2.03428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1271" />
+  </g>
+  <g
+     style="display:none"
+     sodipodi:insensitive="true"
+     inkscape:label="Utah Python Logo 2"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <rect
+       y="0"
+       x="35"
+       height="15"
+       width="116.16279"
+       id="rect4159"
+       style="opacity:1;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:1.99284;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:1.99284;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4159-3"
+       width="116.16279"
+       height="15"
+       x="35"
+       y="185" />
+    <rect
+       style="opacity:1;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:2.94296;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4159-6"
+       width="38"
+       height="100"
+       x="0"
+       y="38" />
   </g>
 </svg>
