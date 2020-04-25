@@ -129,8 +129,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer2"
      inkscape:document-units="mm"
-     inkscape:cy="367.81531"
-     inkscape:cx="400.33133"
+     inkscape:cy="377.07755"
+     inkscape:cx="369.89826"
      inkscape:zoom="0.75575672"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -185,33 +185,5 @@
        d="m 123.77556,56.576942 v 20.326252 c 0,0 -0.17348,13.858809 -13.9846,13.858809 H 81.459031 c 0,0 -11.757234,-0.726188 -11.757234,13.858807 v 60.05484 c 0,14.52873 18.646124,13.85881 18.646124,13.85881 h 34.495329 c 0,0 14.09728,0.94016 13.9846,-13.85881 -0.11269,-14.79897 0,-12.01097 0,-12.01097 h -24.23997 v -4.6196 h 27.9692 c 0,0 13.98457,0.32339 13.98457,-18.47841 V 75.055354 c 0,0 0.17097,-18.478412 -13.98457,-18.478412 z m 1.89098,101.948318 h 2.6e-4 c 0.007,0 0.0139,-2e-5 0.021,0 2.78661,1.3e-4 5.04553,2.25243 5.04549,5.0307 -4e-5,2.77819 -2.25894,5.0304 -5.04549,5.03053 -2.78673,1.4e-4 -5.04592,-2.25214 -5.04596,-5.03053 -7e-5,-2.77016 2.24611,-5.0307 5.02458,-5.0307 z"
        style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient1552);fill-opacity:1;stroke:none;stroke-width:2.03428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1271" />
-  </g>
-  <g
-     style="display:none"
-     sodipodi:insensitive="true"
-     inkscape:label="Utah Python Logo 2"
-     id="layer3"
-     inkscape:groupmode="layer">
-    <rect
-       y="0"
-       x="35"
-       height="15"
-       width="116.16279"
-       id="rect4159"
-       style="opacity:1;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:1.99284;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:1.99284;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4159-3"
-       width="116.16279"
-       height="15"
-       x="35"
-       y="185" />
-    <rect
-       style="opacity:1;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:2.94296;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4159-6"
-       width="38"
-       height="100"
-       x="0"
-       y="38" />
   </g>
 </svg>
