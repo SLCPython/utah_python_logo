@@ -9,136 +9,138 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="100.1913"
-   inkscape:export-xdpi="100.1913"
-   inkscape:export-filename="/Users/dylan/projects/utah_python_logo/utahpython_utah_background.png"
-   sodipodi:docname="utahpython.svg"
-   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 200 200"
+   width="200mm"
    height="200mm"
-   width="200mm">
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="utahpython.svg"
+   inkscape:export-filename="/Users/dylan/projects/utah_python_logo/utahpython.png"
+   inkscape:export-xdpi="100.191"
+   inkscape:export-ydpi="100.191">
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient1458"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient1458">
       <stop
-         id="stop1454"
+         style="stop-color:#5a9fd4;stop-opacity:1"
          offset="0"
-         style="stop-color:#5a9fd4;stop-opacity:1" />
+         id="stop1454" />
       <stop
-         id="stop1456"
+         style="stop-color:#306998;stop-opacity:1"
          offset="1"
-         style="stop-color:#306998;stop-opacity:1" />
+         id="stop1456" />
     </linearGradient>
     <inkscape:path-effect
-       only_selected="false"
-       apply_with_weight="true"
-       apply_no_weight="true"
-       helper_size="0"
-       steps="2"
-       weight="33.333333"
-       lpeversion="1"
-       is_visible="true"
+       effect="bspline"
        id="path-effect6543"
-       effect="bspline" />
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <linearGradient
-       id="linearGradient867"
-       inkscape:collect="always">
+       id="linearGradient1199"
+       osb:paint="solid">
       <stop
-         id="stop878"
+         style="stop-color:#ff0000;stop-opacity:1;"
          offset="0"
-         style="stop-color:#612928;stop-opacity:1" />
-      <stop
-         style="stop-color:#752226;stop-opacity:1;"
-         offset="0.10324942"
-         id="stop1512" />
-      <stop
-         style="stop-color:#a91425;stop-opacity:1;"
-         offset="0.17858957"
-         id="stop1486" />
-      <stop
-         id="stop1482"
-         offset="0.40573439"
-         style="stop-color:#f0420e;stop-opacity:1" />
-      <stop
-         style="stop-color:#f27a13;stop-opacity:1;"
-         offset="0.53776437"
-         id="stop4101" />
-      <stop
-         style="stop-color:#f49516;stop-opacity:1;"
-         offset="0.70618159"
-         id="stop1480" />
-      <stop
-         style="stop-color:#ffd43b;stop-opacity:1"
-         offset="0.87278831"
-         id="stop1462" />
-      <stop
-         id="stop1490"
-         offset="1"
-         style="stop-color:#ffe469;stop-opacity:1;" />
-      <stop
-         id="stop880"
-         offset="1"
-         style="stop-color:#ffe873;stop-opacity:1" />
+         id="stop1197" />
     </linearGradient>
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient1199">
-      <stop
-         id="stop1197"
-         offset="0"
-         style="stop-color:#ff0000;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.93230617,0,0,0.92392048,6.3049724,7.6091531)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient1475"
        gradientUnits="userSpaceOnUse"
-       y2="93.013565"
-       x2="88.514633"
-       y1="50.262726"
-       x1="53.708141"
-       id="linearGradient1460"
+       gradientTransform="matrix(0.55160333,0,0,0.58622087,31.328342,29.921645)"
+       x1="88.626617"
+       y1="242.08549"
+       x2="197.74135"
+       y2="76.392044" />
+    <linearGradient
+       id="linearGradient4671">
+      <stop
+         style="stop-color:#9f3a02;stop-opacity:1"
+         offset="0"
+         id="stop4673" />
+      <stop
+         id="stop1508"
+         offset="0.1609056"
+         style="stop-color:#b44203;stop-opacity:1" />
+      <stop
+         style="stop-color:#f85800;stop-opacity:1"
+         offset="0.34316185"
+         id="stop1510" />
+      <stop
+         id="stop1513"
+         offset="0.51942754"
+         style="stop-color:#f37100;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff8300;stop-opacity:1"
+         offset="0.6800096"
+         id="stop1515" />
+      <stop
+         id="stop1506"
+         offset="0.8556447"
+         style="stop-color:#ffd43b;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffe873;stop-opacity:1"
+         offset="1"
+         id="stop4675" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient1458"
-       inkscape:collect="always" />
-    <linearGradient
-       gradientTransform="matrix(0.93230617,0,0,0.92392048,6.3049724,7.6091531)"
+       id="linearGradient1478"
        gradientUnits="userSpaceOnUse"
-       y2="61.261608"
-       x2="138.52127"
-       y1="226.4344"
-       x1="64.016052"
-       id="linearGradient1552"
-       xlink:href="#linearGradient867"
-       inkscape:collect="always" />
+       gradientTransform="matrix(0.55160333,0,0,0.58622087,31.328342,29.921645)"
+       x1="74.265556"
+       y1="24.033693"
+       x2="135.66525"
+       y2="114.39767" />
+    <linearGradient
+       id="linearGradient2795">
+      <stop
+         style="stop-color:#b8b8b8;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop2797" />
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:0;"
+         offset="1"
+         id="stop2799" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
-     inkscape:pagecheckerboard="true"
-     showborder="true"
-     inkscape:showpageshadow="false"
-     inkscape:window-maximized="0"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:window-height="792"
-     inkscape:window-width="1402"
-     inkscape:guide-bbox="true"
-     showguides="false"
-     inkscape:object-nodes="false"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer2"
-     inkscape:document-units="mm"
-     inkscape:cy="377.07755"
-     inkscape:cx="369.89826"
-     inkscape:zoom="0.75575672"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
+     inkscape:snap-global="false"
      id="base"
-     inkscape:snap-global="false" />
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0824912"
+     inkscape:cx="436.59301"
+     inkscape:cy="382.36039"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1107"
+     inkscape:window-height="874"
+     inkscape:window-x="565"
+     inkscape:window-y="57"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -147,43 +149,85 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     style="display:inline"
-     inkscape:label="Utah Python Logo"
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:label="Utah Python Logo"
+     style="display:inline">
     <g
-       inkscape:label="Utah Background"
+       style="display:inline"
+       inkscape:groupmode="layer"
        id="layer1"
-       inkscape:groupmode="layer">
-      <path
-         id="rect4098-6"
-         style="opacity:1;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1.95853;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         d="m 50.123253,15.000626 h 64.329127 c 0,0 12.33278,-0.296518 12.11998,12.010739 v 22.172243 h 23.30765 c 0,0 12.13442,0.02711 12.11998,12.012814 V 172.98896 c -0.0493,12.16049 -12.11998,12.01095 -12.11998,12.01095 H 50.123253 c 0,0 -12.332707,-0.0673 -12.119863,-12.00912 V 27.009517 C 37.765535,15.038166 50.123253,15.000626 50.123253,15.000626 Z"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccc" />
+       inkscape:label="Utah Background">
       <path
          sodipodi:nodetypes="cccccccccccc"
          inkscape:connector-curvature="0"
-         d="m 50.123365,17.77228 h 64.329125 c 0,0 9.1487,-0.375261 9.32306,9.239204 v 24.945853 h 26.10458 c 0,0 9.1487,-0.07051 9.32305,9.239205 V 172.99079 c -0.23466,9.28903 -9.32305,9.23933 -9.32305,9.23933 H 50.123365 c 0,0 -9.148702,-0.34383 -9.323061,-9.23921 V 27.011484 c -0.03742,-8.923401 9.323061,-9.239204 9.323061,-9.239204 z"
-         style="opacity:1;fill:#212121;fill-opacity:1;stroke:none;stroke-width:1.85621;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4098" />
+         d="m 51,25 h 71 c 0,0 10.96628,0.268002 11,11 v 17 h 17 c 0,0 11.01431,0.303985 11,11 v 100 c -0.0489,10.60401 -11,11 -11,11 H 51 c 0,0 -11.210736,-0.58666 -11,-11 V 35.472372 C 39.764458,25.033281 51,25 51,25 Z"
+         style="opacity:1;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1.8198;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4098-6" />
+      <path
+         id="rect4098"
+         style="opacity:1;fill:#212121;fill-opacity:1;stroke:none;stroke-width:1.72475;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="m 51,28 h 71 c 0,0 7.82736,0.34939 8,8 v 20 h 20 c 0,0 8.31622,0.126298 8,8 v 100 c -0.23233,8.10009 -8,8 -8,8 H 51 c 0,0 -7.82737,-0.2432 -8,-8 V 35.474087 C 42.96296,27.692825 51,28 51,28 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccc" />
     </g>
+  </g>
+  <g
+     inkscape:label="Utah Python Logo Image"
+     id="layer5"
+     inkscape:groupmode="layer">
     <path
-       sodipodi:nodetypes="zccccczzccczzccczzssssss"
        inkscape:connector-curvature="0"
-       d="m 70.634103,22.391883 c -14.34474,0 -13.984594,13.858808 -13.984594,13.858808 v 8.315284 h 24.239963 v 4.619603 H 56.649509 c 0,0 -11.231275,-0.06164 -11.187675,18.478411 0.04361,18.540058 -0.113422,43.335761 0,61.902681 0.113423,18.56691 13.984595,18.47841 13.984595,18.47841 h 5.593837 v -43.42427 c 0,0 -1.169773,-18.567798 18.646124,-18.478411 19.8159,0.08939 16.72948,0 26.10457,0 9.3751,0 9.32306,-9.239205 9.32306,-9.239205 V 54.070317 36.250691 c 0,0 -0.10846,-13.685358 -18.64611,-13.858808 -18.537664,-0.173451 -15.489066,0 -29.833807,0 z m -3.618087,8.011784 c 1.343087,3e-6 2.685997,0.44636 3.581389,1.339138 1.790765,1.785541 1.790765,5.356187 0,7.141592 -1.790769,1.785411 -5.372142,1.785411 -7.163064,0 -1.790916,-1.785405 -1.790879,-5.356086 0,-7.141592 0.895441,-0.89276 2.238579,-1.339144 3.581675,-1.339138 z"
-       style="fill:url(#linearGradient1460);fill-opacity:1;stroke:none;stroke-width:0.17941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path1269" />
+       style="display:inline;fill:url(#linearGradient1478);fill-opacity:1;stroke-width:1.00602"
+       d="m 99.878978,42.000949 c -4.494548,0.02184 -8.786697,0.425462 -12.563373,1.128893 -11.125609,2.068907 -13.145587,6.399306 -13.145587,14.385306 v 10.547077 h 26.291172 v 3.515693 H 74.170018 64.303164 c -7.640967,0 -14.331591,4.834203 -16.42432,14.030518 -2.413968,10.541113 -2.521035,17.118924 0,28.125574 1.868846,8.19288 6.331956,14.03051 13.972923,14.03051 h 9.039516 v -12.6436 c 0,-9.13426 7.508253,-17.19143 16.424322,-17.19143 h 26.260525 c 7.30999,0 13.14559,-6.335386 13.14559,-14.062773 V 57.515148 c 0,-7.499804 -6.01081,-13.133621 -13.14559,-14.385306 -4.51643,-0.791361 -9.20261,-1.150875 -13.697152,-1.128893 z m -14.218085,8.482816 c 2.715713,0 4.933443,2.3725 4.933443,5.289666 0,2.906822 -2.21773,5.25741 -4.933443,5.25741 -2.725423,0 -4.933407,-2.350588 -4.933407,-5.25741 0,-2.917162 2.207984,-5.289666 4.933407,-5.289666 z"
+       id="path1948" />
     <path
-       sodipodi:nodetypes="ccscsscczccccscsccscssssc"
+       sodipodi:nodetypes="csssssccsccccsccscsssss"
        inkscape:connector-curvature="0"
-       d="m 123.77556,56.576942 v 20.326252 c 0,0 -0.17348,13.858809 -13.9846,13.858809 H 81.459031 c 0,0 -11.757234,-0.726188 -11.757234,13.858807 v 60.05484 c 0,14.52873 18.646124,13.85881 18.646124,13.85881 h 34.495329 c 0,0 14.09728,0.94016 13.9846,-13.85881 -0.11269,-14.79897 0,-12.01097 0,-12.01097 h -24.23997 v -4.6196 h 27.9692 c 0,0 13.98457,0.32339 13.98457,-18.47841 V 75.055354 c 0,0 0.17097,-18.478412 -13.98457,-18.478412 z m 1.89098,101.948318 h 2.6e-4 c 0.007,0 0.0139,-2e-5 0.021,0 2.78661,1.3e-4 5.04553,2.25243 5.04549,5.0307 -4e-5,2.77819 -2.25894,5.0304 -5.04549,5.03053 -2.78673,1.4e-4 -5.04592,-2.25214 -5.04596,-5.03053 -7e-5,-2.77016 2.24611,-5.0307 5.02458,-5.0307 z"
-       style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient1552);fill-opacity:1;stroke:none;stroke-width:2.03428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1271" />
+       style="display:inline;fill:url(#linearGradient1475);fill-opacity:1;stroke-width:1.00602"
+       d="m 130,71.577918 4.5e-4,12.288799 c 3.5e-4,9.527338 -7.67372,17.546193 -16.42432,17.546193 H 87.315605 c -7.193204,0 -13.145587,6.48024 -13.145587,14.0628 v 26.35153 c 0,7.49985 6.195719,11.91114 13.145587,14.06278 8.322281,2.57583 16.302955,3.04132 26.260525,0 6.61891,-2.01719 13.14559,-6.07675 13.14559,-14.06278 V 131.2802 h -26.26053 v -3.51568 h 26.26053 13.14558 c 7.64095,0 10.48829,-5.61005 13.1456,-14.03051 2.74487,-8.66876 2.6281,-17.005184 0,-28.125574 -1.88834,-8.006689 -5.4949,-14.030518 -13.1456,-14.030518 z M 115.2308,138.3116 c 2.72547,0 4.93344,2.35055 4.93344,5.2574 0,2.91713 -2.20797,5.28966 -4.93344,5.28966 -2.71567,0 -4.93339,-2.37253 -4.93339,-5.28966 0,-2.90685 2.21772,-5.2574 4.93339,-5.2574 z"
+       id="path1950" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Measuring" />
+  <g
+     style="display:none"
+     inkscape:label="Utah Background 1"
+     id="layer4"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <g
+       transform="matrix(0.53997816,0,0,0.53997816,55.271709,37.632896)"
+       id="Utah"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd">
+      <rect
+         id="Bounds"
+         x="0"
+         y="0"
+         width="260"
+         height="275" />
+      <g
+         style="fill:#5395b0;fill-opacity:0.52"
+         id="utah-map"
+         transform="matrix(1.0382391,0,0,1.0382391,-11.935888,-3.7668802)"
+         fill="#5395b0"
+         fill-rule="nonzero">
+        <polygon
+           transform="matrix(1.064136,0,0,1.064136,-11.365098,-14.454974)"
+           style="fill:#5395b0;fill-opacity:0.52"
+           id="Shape"
+           points="5.9,0.5 20.3,1 72.5,1.5 116.2,0.9 116.6,51.3 191.6,49.8 197.9,250.4 143.6,251.9 91.1,252.2 37.3,252 0.6,251.4 " />
+      </g>
+    </g>
   </g>
 </svg>
